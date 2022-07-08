@@ -109,7 +109,7 @@ function allocate (salesOrders, purchaseOrders) {
 
 Please follow these instructions to deliver your solution:
 
-- Create a GitHub repository and grant read access to jritchie-ne and jchan-ne
+- Create a GitHub repository and grant read access to avale-ne and jchan-ne
 - You should host your repository on GitHub
 - The repository should be private
 - There should be no mention to the company (nowhere, not in the source, not in the repository name, etc )
